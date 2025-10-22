@@ -6,4 +6,4 @@ export const MAIN_TITLE = 'Docs Base';
 
 /** Github URL (used for the "Edit on Github" links) */
 export const GITHUB_URL =
-  'https://github.com/Sloan-Performing-Arts-Center/venue-audio';
+  'https://github.com/hingobway/docs-base-test';
